@@ -1,0 +1,15 @@
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\bin\Debug\net6.0\L5JFAE1070022S8.exe
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\bin\Debug\net6.0\L5JFAE1070022S8.deps.json
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\bin\Debug\net6.0\L5JFAE1070022S8.runtimeconfig.json
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\bin\Debug\net6.0\L5JFAE1070022S8.dll
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\bin\Debug\net6.0\L5JFAE1070022S8.pdb
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.csproj.AssemblyReference.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.AssemblyInfoInputs.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.AssemblyInfo.cs
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.csproj.CoreCompileInputs.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.dll
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\refint\L5JFAE1070022S8.dll
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.pdb
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\L5JFAE1070022S8.genruntimeconfig.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L5JFAE1070022S8\L5JFAE1070022S8\obj\Debug\net6.0\ref\L5JFAE1070022S8.dll
